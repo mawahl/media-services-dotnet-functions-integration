@@ -1,0 +1,25 @@
+{
+  "Version": 1.0,
+  "Codecs": [
+    {
+      "Start": "{Best}",
+      "Type": "JpgImage",
+      "JpgLayers": [
+        {
+          "Quality": 90,
+          "Type": "JpgLayer",
+          "Width": 640,
+          "Height": 360
+        }
+      ]
+    }
+  ],
+  "Outputs": [
+    {
+      "FileName": "{Basename}_{Index}{Extension}",
+      "Format": {
+        "Type": "JpgFormat"
+      }
+    }
+  ]
+}
