@@ -16,7 +16,7 @@
   ],
   "Outputs": [
     {
-      "FileName": "{Basename}_{Index}{Extension}",
+      "FileName": "{Basename}_{Index}.jpg",
       "Format": {
         "Type": "JpgFormat"
       }
